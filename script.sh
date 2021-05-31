@@ -1,1 +1,1 @@
-echo "HELLO"
+echo "SUPER_HELLO"
